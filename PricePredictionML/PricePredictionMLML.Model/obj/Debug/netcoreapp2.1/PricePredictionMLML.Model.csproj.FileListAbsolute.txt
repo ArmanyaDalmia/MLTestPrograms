@@ -1,0 +1,10 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\bin\Debug\netcoreapp2.1\PricePredictionMLML.Model.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\bin\Debug\netcoreapp2.1\PricePredictionMLML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\bin\Debug\netcoreapp2.1\PricePredictionMLML.Model.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionMLML.Model\obj\Debug\netcoreapp2.1\PricePredictionMLML.Model.pdb

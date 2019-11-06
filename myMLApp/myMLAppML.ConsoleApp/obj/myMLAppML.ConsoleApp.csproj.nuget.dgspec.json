@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
+        "projectName": "myMLAppML.ConsoleApp",
+        "projectPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\myMLAppML.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Armanya Dalmia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Armanya Dalmia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\MyMLAppML.Model\\MyMLAppML.Model.csproj": {
+                "projectPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\MyMLAppML.Model\\MyMLAppML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj",
+        "projectName": "myMLAppML.Model",
+        "projectPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.Model\\myMLAppML.Model.csproj",
+        "packagesPath": "C:\\Users\\Armanya Dalmia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\myMLApp\\myMLAppML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Armanya Dalmia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

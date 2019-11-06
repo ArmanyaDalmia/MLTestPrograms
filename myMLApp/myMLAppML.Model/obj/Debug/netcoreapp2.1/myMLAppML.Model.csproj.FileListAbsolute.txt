@@ -1,0 +1,10 @@
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.deps.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\bin\Debug\netcoreapp2.1\myMLAppML.Model.pdb
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.Model\obj\Debug\netcoreapp2.1\myMLAppML.Model.pdb

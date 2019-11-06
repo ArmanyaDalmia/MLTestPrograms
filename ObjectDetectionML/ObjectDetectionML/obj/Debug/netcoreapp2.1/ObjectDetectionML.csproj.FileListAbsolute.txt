@@ -1,0 +1,17 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\ObjectDetectionML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\ObjectDetectionML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\ObjectDetectionML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\ObjectDetectionML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\images\image1.jpg
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\images\image2.jpg
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\images\image3.jpg
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\images\image4.jpg
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\images\wikimedia.md
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\assets\assets\Model\TinyYolo2_model.onnx
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\bin\Debug\netcoreapp2.1\ObjectDetectionML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\ObjectDetectionML\ObjectDetectionML\obj\Debug\netcoreapp2.1\ObjectDetectionML.pdb

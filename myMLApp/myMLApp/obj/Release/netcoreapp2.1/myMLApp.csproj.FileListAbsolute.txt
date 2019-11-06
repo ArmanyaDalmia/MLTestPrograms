@@ -1,0 +1,10 @@
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\bin\Release\netcoreapp2.1\myMLApp.deps.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\bin\Release\netcoreapp2.1\myMLApp.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\bin\Release\netcoreapp2.1\myMLApp.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\bin\Release\netcoreapp2.1\myMLApp.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\bin\Release\netcoreapp2.1\myMLApp.pdb
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\obj\Release\netcoreapp2.1\myMLApp.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\obj\Release\netcoreapp2.1\myMLApp.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\obj\Release\netcoreapp2.1\myMLApp.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\obj\Release\netcoreapp2.1\myMLApp.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLApp\obj\Release\netcoreapp2.1\myMLApp.pdb

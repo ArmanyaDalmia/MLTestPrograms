@@ -1,0 +1,15 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionMLML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\bin\Debug\netcoreapp2.1\PricePredictionMLML.Model.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\PricePredictionML\PricePredictionML\obj\Debug\netcoreapp2.1\PricePredictionML.csproj.CopyComplete

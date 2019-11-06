@@ -1,0 +1,13 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\MovieRecommenderML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\MovieRecommenderML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\MovieRecommenderML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\MovieRecommenderML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\Data\recommendation-ratings-test.csv
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\Data\recommendation-ratings-train.csv
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\bin\Debug\netcoreapp2.1\MovieRecommenderML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\MovieRecommenderML\MovieRecommenderML\obj\Debug\netcoreapp2.1\MovieRecommenderML.pdb

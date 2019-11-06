@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Armanya Dalmia\\source\\repos\\MLTestPrograms\\ObjectDetectionML\\ObjectDetectionML\\ObjectDetectionML.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Armanya Dalmia\\source\\repos\\MLTestPrograms\\ObjectDetectionML\\ObjectDetectionML\\ObjectDetectionML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armanya Dalmia\\source\\repos\\MLTestPrograms\\ObjectDetectionML\\ObjectDetectionML\\ObjectDetectionML.csproj",
+        "projectName": "ObjectDetectionML",
+        "projectPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\MLTestPrograms\\ObjectDetectionML\\ObjectDetectionML\\ObjectDetectionML.csproj",
+        "packagesPath": "C:\\Users\\Armanya Dalmia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armanya Dalmia\\source\\repos\\MLTestPrograms\\ObjectDetectionML\\ObjectDetectionML\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Armanya Dalmia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

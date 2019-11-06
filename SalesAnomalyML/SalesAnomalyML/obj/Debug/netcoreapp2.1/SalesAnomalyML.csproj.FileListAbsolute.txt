@@ -1,0 +1,12 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\SalesAnomalyML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\SalesAnomalyML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\SalesAnomalyML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\SalesAnomalyML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\Data\product-sales.csv
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\bin\Debug\netcoreapp2.1\SalesAnomalyML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\SalesAnomalyML\SalesAnomalyML\obj\Debug\netcoreapp2.1\SalesAnomalyML.pdb

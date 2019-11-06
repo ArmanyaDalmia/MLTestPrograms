@@ -1,0 +1,12 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\Data\iris.data
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\IrisClusteringML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\IrisClusteringML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\IrisClusteringML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\IrisClusteringML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\bin\Debug\netcoreapp2.1\IrisClusteringML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IrisClusteringML\IrisClusteringML\obj\Debug\netcoreapp2.1\IrisClusteringML.pdb

@@ -1,0 +1,12 @@
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\Data\issues_test.tsv
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\Data\issues_train.tsv
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\IssueClarificationML.deps.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\IssueClarificationML.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\IssueClarificationML.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\IssueClarificationML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\bin\Release\netcoreapp2.1\IssueClarificationML.pdb
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\obj\Release\netcoreapp2.1\IssueClarificationML.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\obj\Release\netcoreapp2.1\IssueClarificationML.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\obj\Release\netcoreapp2.1\IssueClarificationML.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\obj\Release\netcoreapp2.1\IssueClarificationML.dll
+C:\Users\Armanya Dalmia\source\repos\MLTestPrograms\IssueClarificationML\IssueClarificationML\obj\Release\netcoreapp2.1\IssueClarificationML.pdb

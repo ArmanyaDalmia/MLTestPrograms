@@ -1,0 +1,15 @@
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.deps.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.runtimeconfig.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.pdb
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.Model.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\myMLAppML.Model.pdb
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.csproj.CopyComplete
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.dll
+C:\Users\Armanya Dalmia\source\repos\myMLApp\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.pdb
